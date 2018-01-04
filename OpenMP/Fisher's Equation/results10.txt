@@ -1,0 +1,55 @@
+======= 64x64
+  1 threads : simulation took 0.227966 seconds
+  2 threads : simulation took 0.184882 seconds
+  3 threads : simulation took 0.253009 seconds
+  4 threads : simulation took 0.25584 seconds
+  5 threads : simulation took 0.154986 seconds
+  6 threads : simulation took 0.185546 seconds
+  7 threads : simulation took 0.191211 seconds
+  8 threads : simulation took 0.261951 seconds
+  9 threads : simulation took 0.313411 seconds
+ 10 threads : simulation took 0.367051 seconds
+======= 128x128
+  1 threads : simulation took 1.17093 seconds
+  2 threads : simulation took 0.670673 seconds
+  3 threads : simulation took 0.622698 seconds
+  4 threads : simulation took 0.44953 seconds
+  5 threads : simulation took 0.394447 seconds
+  6 threads : simulation took 0.399663 seconds
+  7 threads : simulation took 0.378435 seconds
+  8 threads : simulation took 0.380714 seconds
+  9 threads : simulation took 0.381249 seconds
+ 10 threads : simulation took 0.372844 seconds
+======= 256x256
+  1 threads : simulation took 7.87434 seconds
+  2 threads : simulation took 4.29792 seconds
+  3 threads : simulation took 2.92322 seconds
+  4 threads : simulation took 2.32343 seconds
+  5 threads : simulation took 1.9187 seconds
+  6 threads : simulation took 1.79656 seconds
+  7 threads : simulation took 1.53388 seconds
+  8 threads : simulation took 1.40886 seconds
+  9 threads : simulation took 1.35097 seconds
+ 10 threads : simulation took 1.56417 seconds
+======= 512x512
+  1 threads : simulation took 59.1445 seconds
+  2 threads : simulation took 31.4367 seconds
+  3 threads : simulation took 21.2734 seconds
+  4 threads : simulation took 16.3945 seconds
+  5 threads : simulation took 13.5966 seconds
+  6 threads : simulation took 11.3725 seconds
+  7 threads : simulation took 10.1699 seconds
+  8 threads : simulation took 8.95109 seconds
+  9 threads : simulation took 7.99137 seconds
+ 10 threads : simulation took 7.99862 seconds
+======= 1024x1024
+  1 threads : simulation took 646.882 seconds
+  2 threads : simulation took 347.352 seconds
+  3 threads : simulation took 265.422 seconds
+  4 threads : simulation took 225.151 seconds
+  5 threads : simulation took 203.591 seconds
+  6 threads : simulation took 198.698 seconds
+  7 threads : simulation took 188.31 seconds
+  8 threads : simulation took 179.654 seconds
+  9 threads : simulation took 183.561 seconds
+ 10 threads : simulation took 171.741 seconds

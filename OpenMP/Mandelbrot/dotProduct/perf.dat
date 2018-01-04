@@ -1,0 +1,2 @@
+#NMAX Time_Serial Time_Parallel_Red_1 Time_Parallel_Crit_1 Time_Parallel_Red_2 Time_Parallel_Crit_2 Time_Parallel_Red_4 Time_Parallel_Crit_4 Time_Parallel_Red_8 Time_Parallel_Crit_8
+100000 0.360607 0.145135 0.145948 0.083905 0.0920448 0.0604432 0.074733 0.070307 0.116504 

@@ -1,0 +1,157 @@
+Total time:                 486906 ms
+Image size:                 4096 x 4096 = 16777216 Pixels
+Total number of iterations: 16777216
+Avg. time per pixel:        29.0218 µs
+Avg. time per iteration:    29.0218 µs
+Iterations/second:          34456.8
+MFlop/s:                    0.275654
+
+Total time:                 121710 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 4194304
+Avg. time per pixel:        29.0179 µs
+Avg. time per iteration:    29.0179 µs
+Iterations/second:          34461.5
+MFlop/s:                    0.275692
+
+
+Total time:                 7703.24 ms
+Image size:                 512 x 512 = 262144 Pixels
+Total number of iterations: 262144
+Avg. time per pixel:        29.3855 µs
+Avg. time per iteration:    29.3855 µs
+Iterations/second:          34030.3
+MFlop/s:                    0.272243
+
+
+-----------------
+Total time:                 133586 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 4194304
+Avg. time per pixel:        31.8494 µs
+Avg. time per iteration:    31.8494 µs
+Iterations/second:          31397.8
+MFlop/s:                    0.251182
+
+PARALLEL VERSIONS
+
+1 Thread:
+Total time:                 121745 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 4194304
+Avg. time per pixel:        29.0262 µs
+Avg. time per iteration:    29.0262 µs
+Iterations/second:          34451.6
+MFlop/s:                    0.275613
+
+2Threads:
+
+Total time:                 61118.3 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 4194183
+Avg. time per pixel:        14.5717 µs
+Avg. time per iteration:    14.5722 µs
+Iterations/second:          68624
+MFlop/s:                    0.548992
+
+4 Threads:
+Total time:                 59044.2 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 4186353
+Avg. time per pixel:        14.0772 µs
+Avg. time per iteration:    14.104 µs
+Iterations/second:          70902
+MFlop/s:                    0.567216
+
+8 Therads:
+Total time:                 39913.4 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 3705011
+Avg. time per pixel:        9.5161 µs
+Avg. time per iteration:    10.7728 µs
+Iterations/second:          92826.2
+MFlop/s:                    0.74261
+
+12Threads:
+[studentb@icsnode32 mandel]$ ./mandel_par
+Total time:                 30396.3 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 3426274
+Avg. time per pixel:        7.24703 µs
+Avg. time per iteration:    8.87152 µs
+Iterations/second:          112720
+MFlop/s:                    0.901762
+
+16threads
+Total time:                 23734.1 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 3361239
+Avg. time per pixel:        5.65865 µs
+Avg. time per iteration:    7.06112 µs
+Iterations/second:          141621
+MFlop/s:                    1.13297
+
+24 Threads
+Total time:                 16822.7 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 3057708
+Avg. time per pixel:        4.01084 µs
+Avg. time per iteration:    5.50173 µs
+Iterations/second:          181761
+MFlop/s:                    1.45409
+
+
+32 Threads
+Total time:                 13128.3 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 3358412
+Avg. time per pixel:        3.13002 µs
+Avg. time per iteration:    3.90907 µs
+Iterations/second:          255815
+MFlop/s:                    2.04652
+
+
+48 Threads
+Total time:                 9995.98 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 3429224
+Avg. time per pixel:        2.38323 µs
+Avg. time per iteration:    2.91494 µs
+Iterations/second:          343060
+
+64 Threads
+Total time:                 8718.92 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 3068781
+Avg. time per pixel:        2.07875 µs
+Avg. time per iteration:    2.84117 µs
+Iterations/second:          351968
+MFlop/s:                    2.81575
+
+72 Threads
+Total time:                 8380.84 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 3078908
+Avg. time per pixel:        1.99815 µs
+Avg. time per iteration:    2.72202 µs
+Iterations/second:          367375
+MFlop/s:                    2.939
+
+96 Threads
+Total time:                 8112.33 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 3041547
+Avg. time per pixel:        1.93413 µs
+Avg. time per iteration:    2.66717 µs
+Iterations/second:          374929
+MFlop/s:                    2.99943
+
+128 Threads
+Total time:                 7606.4 ms
+Image size:                 2048 x 2048 = 4194304 Pixels
+Total number of iterations: 3028357
+Avg. time per pixel:        1.81351 µs
+Avg. time per iteration:    2.51172 µs
+Iterations/second:          398133
+MFlop/s:                    3.18506
+
