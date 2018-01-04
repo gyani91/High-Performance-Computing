@@ -1,0 +1,135 @@
+=1 MPI ranks
+======= 128x128
+  1 threads : simulation took 1.08794 seconds
+  2 threads : simulation took 0.633447 seconds
+  3 threads : simulation took 0.522461 seconds
+  4 threads : simulation took 0.416613 seconds
+  5 threads : simulation took 0.385771 seconds
+  6 threads : simulation took 0.371728 seconds
+  7 threads : simulation took 0.342544 seconds
+  8 threads : simulation took 0.332913 seconds
+  9 threads : simulation took 0.341018 seconds
+ 10 threads : simulation took 0.337781 seconds
+======= 256x256
+  1 threads : simulation took 7.42162 seconds
+  2 threads : simulation took 3.97095 seconds
+  3 threads : simulation took 2.86588 seconds
+  4 threads : simulation took 2.29899 seconds
+  5 threads : simulation took 1.9936 seconds
+  6 threads : simulation took 1.72837 seconds
+  7 threads : simulation took 1.51316 seconds
+  8 threads : simulation took 1.41851 seconds
+  9 threads : simulation took 1.3296 seconds
+ 10 threads : simulation took 1.23009 seconds
+======= 512x512
+  1 threads : simulation took 55.2876 seconds
+  2 threads : simulation took 29.1969 seconds
+  3 threads : simulation took 20.4708 seconds
+  4 threads : simulation took 16.6115 seconds
+  5 threads : simulation took 13.7108 seconds
+  6 threads : simulation took 11.547 seconds
+  7 threads : simulation took 9.9481 seconds
+  8 threads : simulation took 9.50789 seconds
+  9 threads : simulation took 8.68981 seconds
+ 10 threads : simulation took 8.09695 seconds
+======= 1024x1024
+  1 threads : simulation took 621.063 seconds
+  2 threads : simulation took 334.486 seconds
+  3 threads : simulation took 258.434 seconds
+  4 threads : simulation took 224.633 seconds
+  5 threads : simulation took 199.646 seconds
+  6 threads : simulation took 195.176 seconds
+  7 threads : simulation took 184.669 seconds
+  8 threads : simulation took 176.796 seconds
+  9 threads : simulation took 176.16 seconds
+ 10 threads : simulation took 171.018 seconds
+=2 MPI ranks
+======= 128x128
+  1 threads : simulation took 0.604423 seconds
+  2 threads : simulation took 0.429454 seconds
+  3 threads : simulation took 0.359941 seconds
+  4 threads : simulation took 0.327202 seconds
+  5 threads : simulation took 0.329886 seconds
+  6 threads : simulation took 0.310419 seconds
+  7 threads : simulation took 0.310629 seconds
+  8 threads : simulation took 0.317587 seconds
+  9 threads : simulation took 0.319773 seconds
+ 10 threads : simulation took 0.332962 seconds
+======= 256x256
+  1 threads : simulation took 3.85527 seconds
+  2 threads : simulation took 2.16092 seconds
+  3 threads : simulation took 1.62052 seconds
+  4 threads : simulation took 1.3728 seconds
+  5 threads : simulation took 1.2005 seconds
+  6 threads : simulation took 1.06176 seconds
+  7 threads : simulation took 0.997827 seconds
+  8 threads : simulation took 0.932477 seconds
+  9 threads : simulation took 0.938714 seconds
+ 10 threads : simulation took 0.899735 seconds
+======= 512x512
+  1 threads : simulation took 27.7625 seconds
+  2 threads : simulation took 14.8102 seconds
+  3 threads : simulation took 10.6116 seconds
+  4 threads : simulation took 8.52406 seconds
+  5 threads : simulation took 7.37134 seconds
+  6 threads : simulation took 6.32161 seconds
+  7 threads : simulation took 5.60938 seconds
+  8 threads : simulation took 5.08457 seconds
+  9 threads : simulation took 4.6978 seconds
+ 10 threads : simulation took 4.44503 seconds
+======= 1024x1024
+  1 threads : simulation took 281.046 seconds
+  2 threads : simulation took 150.632 seconds
+  3 threads : simulation took 110.215 seconds
+  4 threads : simulation took 92.5113 seconds
+  5 threads : simulation took 82.6684 seconds
+  6 threads : simulation took 72.9069 seconds
+  7 threads : simulation took 68.9902 seconds
+  8 threads : simulation took 65.4509 seconds
+  9 threads : simulation took 64.8172 seconds
+ 10 threads : simulation took 63.1057 seconds
+=4 MPI ranks
+======= 128x128
+  1 threads : simulation took 0.373496 seconds
+  2 threads : simulation took 0.324711 seconds
+  3 threads : simulation took 0.304841 seconds
+  4 threads : simulation took 0.296067 seconds
+  5 threads : simulation took 0.311545 seconds
+  6 threads : simulation took 0.296986 seconds
+  7 threads : simulation took 0.307424 seconds
+  8 threads : simulation took 0.320025 seconds
+  9 threads : simulation took 0.323152 seconds
+ 10 threads : simulation took 0.335765 seconds
+======= 256x256
+  1 threads : simulation took 2.11112 seconds
+  2 threads : simulation took 1.27636 seconds
+  3 threads : simulation took 1.06936 seconds
+  4 threads : simulation took 0.88647 seconds
+  5 threads : simulation took 0.839136 seconds
+  6 threads : simulation took 0.801946 seconds
+  7 threads : simulation took 0.772267 seconds
+  8 threads : simulation took 0.75066 seconds
+  9 threads : simulation took 0.747047 seconds
+ 10 threads : simulation took 0.76995 seconds
+======= 512x512
+  1 threads : simulation took 14.2477 seconds
+  2 threads : simulation took 7.74722 seconds
+  3 threads : simulation took 5.82434 seconds
+  4 threads : simulation took 4.77565 seconds
+  5 threads : simulation took 4.18397 seconds
+  6 threads : simulation took 3.6708 seconds
+  7 threads : simulation took 3.30913 seconds
+  8 threads : simulation took 3.03037 seconds
+  9 threads : simulation took 2.8511 seconds
+ 10 threads : simulation took 2.76522 seconds
+======= 1024x1024
+  1 threads : simulation took 107.807 seconds
+  2 threads : simulation took 55.7795 seconds
+  3 threads : simulation took 41.3166 seconds
+  4 threads : simulation took 32.9265 seconds
+  5 threads : simulation took 27.6754 seconds
+  6 threads : simulation took 23.1876 seconds
+  7 threads : simulation took 21.4095 seconds
+  8 threads : simulation took 18.7489 seconds
+  9 threads : simulation took 17.172 seconds
+ 10 threads : simulation took 16.7142 seconds
