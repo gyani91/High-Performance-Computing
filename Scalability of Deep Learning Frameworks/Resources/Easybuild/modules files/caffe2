@@ -1,0 +1,4 @@
+#%Module
+#
+append-path PATH $HOME/pytorch/build/bin
+append-path LD_LIBRARY_PATH $HOME/pytorch/build/lib
