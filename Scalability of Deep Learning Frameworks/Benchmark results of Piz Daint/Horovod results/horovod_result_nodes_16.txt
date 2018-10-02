@@ -1,0 +1,646 @@
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid05760:18377:23240 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid05760:18377:23240 [0] INFO Using internal Network Socket
+nid05760:18377:23240 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid06032:12081:16946 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid06032:12081:16946 [0] INFO Using internal Network Socket
+nid06032:12081:16946 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid06027:24105:28984 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid06027:24105:28984 [0] INFO Using internal Network Socket
+nid06027:24105:28984 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid06029:20193:25055 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid06029:20193:25055 [0] INFO Using internal Network Socket
+nid06029:20193:25055 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+nid05760:18377:23240 [0] INFO NET : Using interface ipogif0:148.187.54.173<0>
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid05766:2576:7480 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid05766:2576:7480 [0] INFO Using internal Network Socket
+nid05766:2576:7480 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid05768:29863:2298 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid05768:29863:2298 [0] INFO Using internal Network Socket
+nid05768:29863:2298 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid05762:11713:16592 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid05762:11713:16592 [0] INFO Using internal Network Socket
+nid05762:11713:16592 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid06034:5397:10368 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid06034:5397:10368 [0] INFO Using internal Network Socket
+nid06034:5397:10368 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+nid05760:18377:23240 [0] INFO NET/Socket : 1 interfaces found
+NCCL version 2.2.13+cuda9.0
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid05765:4099:9056 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid05765:4099:9056 [0] INFO Using internal Network Socket
+nid05765:4099:9056 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid05767:31917:4358 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid05767:31917:4358 [0] INFO Using internal Network Socket
+nid05767:31917:4358 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid05764:886:5823 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid05764:886:5823 [0] INFO Using internal Network Socket
+nid05764:886:5823 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid05763:31230:3660 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid05763:31230:3660 [0] INFO Using internal Network Socket
+nid05763:31230:3660 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid06033:19027:23893 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid06033:19027:23893 [0] INFO Using internal Network Socket
+nid06033:19027:23893 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid05761:11453:16343 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid05761:11453:16343 [0] INFO Using internal Network Socket
+nid05761:11453:16343 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid06035:28029:429 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid06035:28029:429 [0] INFO Using internal Network Socket
+nid06035:28029:429 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  1024 global
+             64 per device
+Num batches: 100
+Num epochs:  0.08
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid06028:14004:18872 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid06028:14004:18872 [0] INFO Using internal Network Socket
+nid06028:14004:18872 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+nid05760:18377:23240 [0] INFO comm 0x2aab50afe6b0 rank 0 nranks 16
+nid06033:19027:23893 [0] INFO comm 0x2aab509bbea0 rank 13 nranks 16
+nid06033:19027:23893 [0] INFO NET : Using interface ipogif0:148.187.55.192<0>
+nid06033:19027:23893 [0] INFO NET/Socket : 1 interfaces found
+nid06029:20193:25055 [0] INFO comm 0x2aab509bbaf0 rank 11 nranks 16
+nid06029:20193:25055 [0] INFO NET : Using interface ipogif0:148.187.55.188<0>
+nid06029:20193:25055 [0] INFO NET/Socket : 1 interfaces found
+nid05763:31230:3660 [0] INFO comm 0x2aab509bbe10 rank 3 nranks 16
+nid05763:31230:3660 [0] INFO NET : Using interface ipogif0:148.187.54.176<0>
+nid05763:31230:3660 [0] INFO NET/Socket : 1 interfaces found
+nid05764:886:5823 [0] INFO comm 0x2aab509bc050 rank 4 nranks 16
+nid05765:4099:9056 [0] INFO comm 0x2aab509bb7c0 rank 5 nranks 16
+nid05765:4099:9056 [0] INFO NET : Using interface ipogif0:148.187.54.178<0>
+nid05765:4099:9056 [0] INFO NET/Socket : 1 interfaces found
+nid06035:28029:429 [0] INFO comm 0x2aab50995640 rank 15 nranks 16
+nid06035:28029:429 [0] INFO NET : Using interface ipogif0:148.187.55.194<0>
+nid06035:28029:429 [0] INFO NET/Socket : 1 interfaces found
+nid05764:886:5823 [0] INFO NET : Using interface ipogif0:148.187.54.177<0>
+nid05764:886:5823 [0] INFO NET/Socket : 1 interfaces found
+nid05767:31917:4358 [0] INFO comm 0x2aab509bbd60 rank 7 nranks 16
+nid05767:31917:4358 [0] INFO NET : Using interface ipogif0:148.187.54.180<0>
+nid05767:31917:4358 [0] INFO NET/Socket : 1 interfaces found
+nid05761:11453:16343 [0] INFO comm 0x2aab509bb210 rank 1 nranks 16
+nid05761:11453:16343 [0] INFO NET : Using interface ipogif0:148.187.54.174<0>
+nid05761:11453:16343 [0] INFO NET/Socket : 1 interfaces found
+nid05766:2576:7480 [0] INFO comm 0x2aab509bb880 rank 6 nranks 16
+nid05766:2576:7480 [0] INFO NET : Using interface ipogif0:148.187.54.179<0>
+nid05766:2576:7480 [0] INFO NET/Socket : 1 interfaces found
+nid05762:11713:16592 [0] INFO comm 0x2aab509bba40 rank 2 nranks 16
+nid05762:11713:16592 [0] INFO NET : Using interface ipogif0:148.187.54.175<0>
+nid05762:11713:16592 [0] INFO NET/Socket : 1 interfaces found
+nid06027:24105:28984 [0] INFO comm 0x2aab509bb670 rank 9 nranks 16
+nid06027:24105:28984 [0] INFO NET : Using interface ipogif0:148.187.55.186<0>
+nid06027:24105:28984 [0] INFO NET/Socket : 1 interfaces found
+nid06032:12081:16946 [0] INFO comm 0x2aab509cb8c0 rank 12 nranks 16
+nid06032:12081:16946 [0] INFO NET : Using interface ipogif0:148.187.55.191<0>
+nid06032:12081:16946 [0] INFO NET/Socket : 1 interfaces found
+nid06034:5397:10368 [0] INFO comm 0x2aab509bbfe0 rank 14 nranks 16
+nid06034:5397:10368 [0] INFO NET : Using interface ipogif0:148.187.55.193<0>
+nid06034:5397:10368 [0] INFO NET/Socket : 1 interfaces found
+nid05768:29863:2298 [0] INFO comm 0x2aab509cb700 rank 8 nranks 16
+nid05768:29863:2298 [0] INFO NET : Using interface ipogif0:148.187.54.181<0>
+nid05768:29863:2298 [0] INFO NET/Socket : 1 interfaces found
+nid06028:14004:18872 [0] INFO comm 0x2aab509bcb80 rank 10 nranks 16
+nid06028:14004:18872 [0] INFO NET : Using interface ipogif0:148.187.55.187<0>
+nid06028:14004:18872 [0] INFO NET/Socket : 1 interfaces found
+nid05760:18377:23240 [0] INFO Using 256 threads
+nid05760:18377:23240 [0] INFO Min Comp Cap 6
+nid05760:18377:23240 [0] INFO NCCL_SINGLE_RING_THRESHOLD=131072
+nid05760:18377:23240 [0] INFO Ring 00 :    0   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15
+nid05763:31230:3660 [0] INFO 2 -> 3 via NET/Socket/0
+nid05761:11453:16343 [0] INFO 0 -> 1 via NET/Socket/0
+nid05765:4099:9056 [0] INFO 4 -> 5 via NET/Socket/0
+nid05764:886:5823 [0] INFO 3 -> 4 via NET/Socket/0
+nid05767:31917:4358 [0] INFO 6 -> 7 via NET/Socket/0
+nid05768:29863:2298 [0] INFO 7 -> 8 via NET/Socket/0
+nid06027:24105:28984 [0] INFO 8 -> 9 via NET/Socket/0
+nid06033:19027:23893 [0] INFO 12 -> 13 via NET/Socket/0
+nid05762:11713:16592 [0] INFO 1 -> 2 via NET/Socket/0
+nid06034:5397:10368 [0] INFO 13 -> 14 via NET/Socket/0
+nid06035:28029:429 [0] INFO 14 -> 15 via NET/Socket/0
+nid05766:2576:7480 [0] INFO 5 -> 6 via NET/Socket/0
+nid06032:12081:16946 [0] INFO 11 -> 12 via NET/Socket/0
+nid06029:20193:25055 [0] INFO 10 -> 11 via NET/Socket/0
+nid05760:18377:23240 [0] INFO 15 -> 0 via NET/Socket/0
+nid06028:14004:18872 [0] INFO 9 -> 10 via NET/Socket/0
+nid05760:18377:23240 [0] INFO Launch mode Parallel
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 139.0 +/- 0.0 (jitter = 0.0)	7.376
+10	images/sec: 139.2 +/- 0.5 (jitter = 0.6)	7.336
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.7)	7.400
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.6)	7.373
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.6)	7.340
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.8)	7.357
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.8)	7.369
+70	images/sec: 139.6 +/- 0.1 (jitter = 0.7)	7.349
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.8)	7.350
+90	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.367
+100	images/sec: 139.6 +/- 0.1 (jitter = 0.9)	7.346
+----------------------------------------------------------------
+total images/sec: 2232.85
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 138.6 +/- 0.0 (jitter = 0.0)	7.350
+10	images/sec: 139.2 +/- 0.5 (jitter = 0.7)	7.418
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.7)	7.443
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.348
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.8)	7.400
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.9)	7.383
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.9)	7.332
+70	images/sec: 139.7 +/- 0.1 (jitter = 0.8)	7.368
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.379
+90	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.353
+100	images/sec: 139.6 +/- 0.1 (jitter = 1.0)	7.356
+----------------------------------------------------------------
+total images/sec: 2232.79
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 139.0 +/- 0.0 (jitter = 0.0)	7.411
+10	images/sec: 139.2 +/- 0.5 (jitter = 0.7)	7.329
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.8)	7.374
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.384
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.8)	7.352
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.8)	7.338
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.9)	7.325
+70	images/sec: 139.6 +/- 0.2 (jitter = 0.9)	7.349
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.315
+90	images/sec: 139.7 +/- 0.1 (jitter = 1.0)	7.393
+100	images/sec: 139.6 +/- 0.1 (jitter = 1.1)	7.337
+----------------------------------------------------------------
+total images/sec: 2232.80
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 138.8 +/- 0.0 (jitter = 0.0)	7.458
+10	images/sec: 139.2 +/- 0.5 (jitter = 0.7)	7.433
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.6)	7.347
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.5)	7.379
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.6)	7.363
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.7)	7.367
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.7)	7.360
+70	images/sec: 139.6 +/- 0.2 (jitter = 0.7)	7.360
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.8)	7.334
+90	images/sec: 139.7 +/- 0.2 (jitter = 0.9)	7.387
+100	images/sec: 139.6 +/- 0.2 (jitter = 1.0)	7.339
+----------------------------------------------------------------
+total images/sec: 2232.84
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 138.7 +/- 0.0 (jitter = 0.0)	7.332
+10	images/sec: 139.2 +/- 0.5 (jitter = 0.8)	7.401
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.7)	7.351
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.6)	7.338
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.392
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.9)	7.351
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.9)	7.355
+70	images/sec: 139.6 +/- 0.2 (jitter = 0.9)	7.386
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.355
+90	images/sec: 139.7 +/- 0.1 (jitter = 1.0)	7.359
+100	images/sec: 139.6 +/- 0.1 (jitter = 1.0)	7.368
+----------------------------------------------------------------
+total images/sec: 2232.82
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 138.8 +/- 0.0 (jitter = 0.0)	7.487
+10	images/sec: 139.2 +/- 0.4 (jitter = 0.7)	7.437
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.7)	7.362
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.6)	7.367
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.343
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.8)	7.354
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.9)	7.374
+70	images/sec: 139.6 +/- 0.2 (jitter = 0.9)	7.344
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.334
+90	images/sec: 139.7 +/- 0.1 (jitter = 1.0)	7.345
+100	images/sec: 139.6 +/- 0.1 (jitter = 1.0)	7.366
+----------------------------------------------------------------
+total images/sec: 2232.83
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 138.9 +/- 0.0 (jitter = 0.0)	7.381
+10	images/sec: 139.2 +/- 0.5 (jitter = 0.4)	7.415
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.7)	7.358
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.6)	7.342
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.346
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.8)	7.345
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.7)	7.368
+70	images/sec: 139.6 +/- 0.1 (jitter = 0.7)	7.332
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.8)	7.392
+90	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.385
+100	images/sec: 139.6 +/- 0.1 (jitter = 1.0)	7.329
+----------------------------------------------------------------
+total images/sec: 2232.83
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 138.5 +/- 0.0 (jitter = 0.0)	7.376
+10	images/sec: 139.1 +/- 0.5 (jitter = 0.7)	7.335
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.8)	7.372
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.8)	7.361
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.382
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.9)	7.379
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.9)	7.359
+70	images/sec: 139.6 +/- 0.1 (jitter = 0.9)	7.339
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.338
+90	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.366
+100	images/sec: 139.6 +/- 0.1 (jitter = 0.9)	7.352
+----------------------------------------------------------------
+total images/sec: 2232.74
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 138.9 +/- 0.0 (jitter = 0.0)	7.439
+10	images/sec: 139.2 +/- 0.5 (jitter = 0.7)	7.405
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.7)	7.396
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.6)	7.371
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.355
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.8)	7.334
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.8)	7.388
+70	images/sec: 139.6 +/- 0.2 (jitter = 0.8)	7.379
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.362
+90	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.378
+100	images/sec: 139.6 +/- 0.1 (jitter = 1.0)	7.370
+----------------------------------------------------------------
+total images/sec: 2232.84
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 138.7 +/- 0.0 (jitter = 0.0)	7.340
+10	images/sec: 139.2 +/- 0.5 (jitter = 0.7)	7.453
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.7)	7.366
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.333
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.362
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.7)	7.373
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.8)	7.374
+70	images/sec: 139.6 +/- 0.2 (jitter = 0.8)	7.347
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.8)	7.346
+90	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.376
+100	images/sec: 139.6 +/- 0.1 (jitter = 1.0)	7.375
+----------------------------------------------------------------
+total images/sec: 2232.81
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 139.0 +/- 0.0 (jitter = 0.0)	7.439
+10	images/sec: 139.2 +/- 0.5 (jitter = 0.6)	7.367
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.7)	7.364
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.8)	7.342
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.8)	7.361
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.9)	7.357
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.9)	7.333
+70	images/sec: 139.6 +/- 0.2 (jitter = 0.9)	7.380
+80	images/sec: 139.7 +/- 0.1 (jitter = 1.0)	7.333
+90	images/sec: 139.7 +/- 0.1 (jitter = 1.0)	7.330
+100	images/sec: 139.6 +/- 0.1 (jitter = 1.1)	7.320
+----------------------------------------------------------------
+total images/sec: 2232.80
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 139.1 +/- 0.0 (jitter = 0.0)	7.342
+10	images/sec: 139.2 +/- 0.5 (jitter = 0.6)	7.415
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.9)	7.344
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.336
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.8)	7.392
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.8)	7.373
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.8)	7.349
+70	images/sec: 139.6 +/- 0.2 (jitter = 0.8)	7.333
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.354
+90	images/sec: 139.7 +/- 0.1 (jitter = 1.0)	7.320
+100	images/sec: 139.6 +/- 0.1 (jitter = 1.1)	7.361
+----------------------------------------------------------------
+total images/sec: 2232.81
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 138.7 +/- 0.0 (jitter = 0.0)	7.386
+10	images/sec: 139.2 +/- 0.5 (jitter = 1.1)	7.365
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.6)	7.348
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.6)	7.363
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.368
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.7)	7.358
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.7)	7.338
+70	images/sec: 139.6 +/- 0.2 (jitter = 0.7)	7.374
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.7)	7.396
+90	images/sec: 139.7 +/- 0.1 (jitter = 0.8)	7.391
+100	images/sec: 139.6 +/- 0.1 (jitter = 1.0)	7.361
+----------------------------------------------------------------
+total images/sec: 2232.80
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 138.8 +/- 0.0 (jitter = 0.0)	7.412
+10	images/sec: 139.2 +/- 0.5 (jitter = 1.0)	7.363
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.6)	7.328
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.6)	7.314
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.372
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.7)	7.332
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.7)	7.337
+70	images/sec: 139.6 +/- 0.2 (jitter = 0.7)	7.375
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.7)	7.350
+90	images/sec: 139.7 +/- 0.1 (jitter = 0.8)	7.373
+100	images/sec: 139.6 +/- 0.1 (jitter = 0.8)	7.368
+----------------------------------------------------------------
+total images/sec: 2232.81
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 139.1 +/- 0.0 (jitter = 0.0)	7.410
+10	images/sec: 139.2 +/- 0.5 (jitter = 0.6)	7.349
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.8)	7.394
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.6)	7.340
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.328
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.7)	7.376
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.7)	7.372
+70	images/sec: 139.6 +/- 0.2 (jitter = 0.7)	7.396
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.8)	7.402
+90	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.342
+100	images/sec: 139.6 +/- 0.1 (jitter = 1.0)	7.339
+----------------------------------------------------------------
+total images/sec: 2232.81
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 139.0 +/- 0.0 (jitter = 0.0)	7.426
+10	images/sec: 139.2 +/- 0.5 (jitter = 0.4)	7.401
+20	images/sec: 139.6 +/- 0.3 (jitter = 0.7)	7.341
+30	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.357
+40	images/sec: 139.8 +/- 0.2 (jitter = 0.7)	7.316
+50	images/sec: 139.5 +/- 0.2 (jitter = 0.7)	7.369
+60	images/sec: 139.6 +/- 0.2 (jitter = 0.8)	7.366
+70	images/sec: 139.6 +/- 0.2 (jitter = 0.8)	7.387
+80	images/sec: 139.7 +/- 0.1 (jitter = 0.8)	7.368
+90	images/sec: 139.7 +/- 0.1 (jitter = 0.9)	7.377
+100	images/sec: 139.6 +/- 0.1 (jitter = 1.0)	7.359
+----------------------------------------------------------------
+total images/sec: 2232.82
+----------------------------------------------------------------

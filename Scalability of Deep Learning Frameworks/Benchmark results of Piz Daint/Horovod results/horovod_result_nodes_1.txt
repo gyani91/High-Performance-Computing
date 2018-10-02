@@ -1,0 +1,43 @@
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  64 global
+             64 per device
+Num batches: 100
+Num epochs:  0.00
+Devices:     ['horovod/gpu:0']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid03855:17850:22714 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid03855:17850:22714 [0] INFO Using internal Network Socket
+nid03855:17850:22714 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+nid03855:17850:22714 [0] INFO NET : Using interface ipogif0:148.187.47.46<0>
+nid03855:17850:22714 [0] INFO NET/Socket : 1 interfaces found
+NCCL version 2.2.13+cuda9.0
+nid03855:17850:22714 [0] INFO comm 0x2aab5007efd0 rank 0 nranks 1
+nid03855:17850:22714 [0] INFO Using 256 threads
+nid03855:17850:22714 [0] INFO Min Comp Cap 6
+nid03855:17850:22714 [0] INFO NCCL_SINGLE_RING_THRESHOLD=131072
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 144.9 +/- 0.0 (jitter = 0.0)	7.422
+10	images/sec: 144.9 +/- 0.0 (jitter = 0.1)	7.371
+20	images/sec: 144.9 +/- 0.0 (jitter = 0.1)	7.471
+30	images/sec: 144.9 +/- 0.0 (jitter = 0.2)	7.368
+40	images/sec: 144.9 +/- 0.0 (jitter = 0.2)	7.396
+50	images/sec: 144.9 +/- 0.0 (jitter = 0.2)	7.452
+60	images/sec: 144.9 +/- 0.0 (jitter = 0.2)	7.372
+70	images/sec: 144.9 +/- 0.0 (jitter = 0.2)	7.423
+80	images/sec: 144.9 +/- 0.0 (jitter = 0.2)	7.494
+90	images/sec: 144.9 +/- 0.0 (jitter = 0.2)	7.416
+100	images/sec: 144.9 +/- 0.0 (jitter = 0.2)	7.454
+----------------------------------------------------------------
+total images/sec: 144.84
+----------------------------------------------------------------

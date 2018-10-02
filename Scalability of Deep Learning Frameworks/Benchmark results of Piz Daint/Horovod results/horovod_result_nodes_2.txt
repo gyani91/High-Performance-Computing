@@ -1,0 +1,86 @@
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  128 global
+             64 per device
+Num batches: 100
+Num epochs:  0.01
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid07186:25701:30566 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid07186:25701:30566 [0] INFO Using internal Network Socket
+nid07186:25701:30566 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+nid07186:25701:30566 [0] INFO NET : Using interface ipogif0:148.187.60.75<0>
+nid07186:25701:30566 [0] INFO NET/Socket : 1 interfaces found
+NCCL version 2.2.13+cuda9.0
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  128 global
+             64 per device
+Num batches: 100
+Num epochs:  0.01
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid07187:23028:27888 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid07187:23028:27888 [0] INFO Using internal Network Socket
+nid07187:23028:27888 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+nid07186:25701:30566 [0] INFO comm 0x2aab509ae3b0 rank 0 nranks 2
+nid07187:23028:27888 [0] INFO comm 0x2aab509ba9e0 rank 1 nranks 2
+nid07187:23028:27888 [0] INFO NET : Using interface ipogif0:148.187.60.76<0>
+nid07187:23028:27888 [0] INFO NET/Socket : 1 interfaces found
+nid07186:25701:30566 [0] INFO Using 256 threads
+nid07186:25701:30566 [0] INFO Min Comp Cap 6
+nid07186:25701:30566 [0] INFO NCCL_SINGLE_RING_THRESHOLD=131072
+nid07186:25701:30566 [0] INFO Ring 00 :    0   1
+nid07187:23028:27888 [0] INFO 0 -> 1 via NET/Socket/0
+nid07186:25701:30566 [0] INFO 1 -> 0 via NET/Socket/0
+nid07186:25701:30566 [0] INFO Launch mode Parallel
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 142.8 +/- 0.0 (jitter = 0.0)	7.442
+10	images/sec: 143.0 +/- 0.1 (jitter = 0.1)	7.380
+20	images/sec: 143.0 +/- 0.0 (jitter = 0.2)	7.450
+30	images/sec: 142.9 +/- 0.0 (jitter = 0.2)	7.356
+40	images/sec: 142.9 +/- 0.0 (jitter = 0.2)	7.397
+50	images/sec: 142.9 +/- 0.0 (jitter = 0.2)	7.432
+60	images/sec: 142.9 +/- 0.0 (jitter = 0.1)	7.384
+70	images/sec: 142.9 +/- 0.0 (jitter = 0.1)	7.422
+80	images/sec: 142.9 +/- 0.0 (jitter = 0.1)	7.437
+90	images/sec: 142.8 +/- 0.0 (jitter = 0.1)	7.368
+100	images/sec: 142.8 +/- 0.0 (jitter = 0.1)	7.420
+----------------------------------------------------------------
+total images/sec: 285.63
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 142.8 +/- 0.0 (jitter = 0.0)	7.340
+10	images/sec: 143.0 +/- 0.1 (jitter = 0.1)	7.437
+20	images/sec: 143.0 +/- 0.0 (jitter = 0.2)	7.401
+30	images/sec: 142.9 +/- 0.0 (jitter = 0.2)	7.349
+40	images/sec: 142.9 +/- 0.0 (jitter = 0.2)	7.434
+50	images/sec: 142.9 +/- 0.0 (jitter = 0.2)	7.414
+60	images/sec: 142.9 +/- 0.0 (jitter = 0.1)	7.406
+70	images/sec: 142.9 +/- 0.0 (jitter = 0.1)	7.358
+80	images/sec: 142.9 +/- 0.0 (jitter = 0.1)	7.366
+90	images/sec: 142.8 +/- 0.0 (jitter = 0.1)	7.376
+100	images/sec: 142.8 +/- 0.0 (jitter = 0.1)	7.481
+----------------------------------------------------------------
+total images/sec: 285.63
+----------------------------------------------------------------

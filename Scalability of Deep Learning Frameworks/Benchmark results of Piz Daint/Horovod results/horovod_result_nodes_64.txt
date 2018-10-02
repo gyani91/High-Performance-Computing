@@ -1,0 +1,2566 @@
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuTensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04225:22234:27100 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04225:22234:27100 [0] INFO Using internal Network Socket
+nid04225:22234:27100 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04309:11978:16853 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04309:11978:16853 [0] INFO Using internal Network Socket
+nid04309:11978:16853 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+nid04225:22234:27100 [0] INFO NET : Using interface ipogif0:148.187.48.162<0>
+nid04225:22234:27100 [0] INFO NET/Socket : 1 interfaces found
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04319:6023:10951 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04319:6023:10951 [0] INFO Using internal Network Socket
+nid04319:6023:10951 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04324:27154:32050 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04324:27154:32050 [0] INFO Using internal Network Socket
+nid04324:27154:32050 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04315:375:5299 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04315:375:5299 [0] INFO Using internal Network Socket
+nid04315:375:5299 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04226:18211:23076 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04226:18211:23076 [0] INFO Using internal Network Socket
+nid04226:18211:23076 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04317:32677:5134 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04317:32677:5134 [0] INFO Using internal Network Socket
+nid04317:32677:5134 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04305:11609:16485 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04305:11609:16485 [0] INFO Using internal Network Socket
+nid04305:11609:16485 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04300:23668:28534 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04300:23668:28534 [0] INFO Using internal Network Socket
+nid04300:23668:28534 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04310:17369:22241 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04310:17369:22241 [0] INFO Using internal Network Socket
+nid04310:17369:22241 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04308:12315:17188 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04308:12315:17188 [0] INFO Using internal Network Socket
+nid04308:12315:17188 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04320:20629:25497 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04320:20629:25497 [0] INFO Using internal Network Socket
+nid04320:20629:25497 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04314:571:5511 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04314:571:5511 [0] INFO Using internal Network Socket
+nid04314:571:5511 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04307:13421:18298 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04307:13421:18298 [0] INFO Using internal Network Socket
+nid04307:13421:18298 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04321:25692:30582 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04321:25692:30582 [0] INFO Using internal Network Socket
+nid04321:25692:30582 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04313:675:5614 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04313:675:5614 [0] INFO Using internal Network Socket
+nid04313:675:5614 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04323:25451:30348 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04323:25451:30348 [0] INFO Using internal Network Socket
+nid04323:25451:30348 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04306:12652:17530 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04306:12652:17530 [0] INFO Using internal Network Socket
+nid04306:12652:17530 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04316:11606:16474 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04316:11606:16474 [0] INFO Using internal Network Socket
+nid04316:11606:16474 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04297:32071:4523 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04297:32071:4523 [0] INFO Using internal Network Socket
+nid04297:32071:4523 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04322:27831:32736 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04322:27831:32736 [0] INFO Using internal Network Socket
+nid04322:27831:32736 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04304:21579:26453 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04304:21579:26453 [0] INFO Using internal Network Socket
+nid04304:21579:26453 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04318:6809:11733 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04318:6809:11733 [0] INFO Using internal Network Socket
+nid04318:6809:11733 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04325:27715:32605 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04325:27715:32605 [0] INFO Using internal Network Socket
+nid04325:27715:32605 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+NCCL version 2.2.13+cuda9.0
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04311:13892:18767 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04311:13892:18767 [0] INFO Using internal Network Socket
+nid04311:13892:18767 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04228:16331:21198 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04228:16331:21198 [0] INFO Using internal Network Socket
+nid04228:16331:21198 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04227:25686:30552 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04227:25686:30552 [0] INFO Using internal Network Socket
+nid04227:25686:30552 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04312:7255:12186 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04312:7255:12186 [0] INFO Using internal Network Socket
+nid04312:7255:12186 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04326:329:5261 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04326:329:5261 [0] INFO Using internal Network Socket
+nid04326:329:5261 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04347:1411:6314 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04347:1411:6314 [0] INFO Using internal Network Socket
+nid04347:1411:6314 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04365:10503:15384 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04365:10503:15384 [0] INFO Using internal Network Socket
+nid04365:10503:15384 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04327:28783:1231 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04327:28783:1231 [0] INFO Using internal Network Socket
+nid04327:28783:1231 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04329:24537:29439 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04329:24537:29439 [0] INFO Using internal Network Socket
+nid04329:24537:29439 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04328:32765:5228 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04328:32765:5228 [0] INFO Using internal Network Socket
+nid04328:32765:5228 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04364:17771:22641 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04364:17771:22641 [0] INFO Using internal Network Socket
+nid04364:17771:22641 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04346:5054:10006 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04346:5054:10006 [0] INFO Using internal Network Socket
+nid04346:5054:10006 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04573:25094:29963 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04573:25094:29963 [0] INFO Using internal Network Socket
+nid04573:25094:29963 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04572:6159:11089 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04572:6159:11089 [0] INFO Using internal Network Socket
+nid04572:6159:11089 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04571:22924:27787 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04571:22924:27787 [0] INFO Using internal Network Socket
+nid04571:22924:27787 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04508:20381:25247 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04508:20381:25247 [0] INFO Using internal Network Socket
+nid04508:20381:25247 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04570:26686:31548 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04570:26686:31548 [0] INFO Using internal Network Socket
+nid04570:26686:31548 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04566:30207:2651 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04566:30207:2651 [0] INFO Using internal Network Socket
+nid04566:30207:2651 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04568:6818:11742 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04568:6818:11742 [0] INFO Using internal Network Socket
+nid04568:6818:11742 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04504:485:5404 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04504:485:5404 [0] INFO Using internal Network Socket
+nid04504:485:5404 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04510:14035:18911 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04510:14035:18911 [0] INFO Using internal Network Socket
+nid04510:14035:18911 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04505:29967:2402 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04505:29967:2402 [0] INFO Using internal Network Socket
+nid04505:29967:2402 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04567:798:5738 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04567:798:5738 [0] INFO Using internal Network Socket
+nid04567:798:5738 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04511:10919:15800 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04511:10919:15800 [0] INFO Using internal Network Socket
+nid04511:10919:15800 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04509:10165:15038 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04509:10165:15038 [0] INFO Using internal Network Socket
+nid04509:10165:15038 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04569:31015:3456 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04569:31015:3456 [0] INFO Using internal Network Socket
+nid04569:31015:3456 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04507:4801:9768 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04507:4801:9768 [0] INFO Using internal Network Socket
+nid04507:4801:9768 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04506:6058:11001 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04506:6058:11001 [0] INFO Using internal Network Socket
+nid04506:6058:11001 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuTensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04503:31872:4317 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04503:31872:4317 [0] INFO Using internal Network Socket
+nid04503:31872:4317 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04501:423:5343 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04501:423:5343 [0] INFO Using internal Network Socket
+nid04501:423:5343 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04502:1028:5961 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04502:1028:5961 [0] INFO Using internal Network Socket
+nid04502:1028:5961 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04500:1549:6451 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04500:1549:6451 [0] INFO Using internal Network Socket
+nid04500:1549:6451 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04499:4930:9886 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04499:4930:9886 [0] INFO Using internal Network Socket
+nid04499:4930:9886 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04428:9605:14475 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04428:9605:14475 [0] INFO Using internal Network Socket
+nid04428:9605:14475 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04435:3624:8588 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04435:3624:8588 [0] INFO Using internal Network Socket
+nid04435:3624:8588 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04430:29465:1901 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04430:29465:1901 [0] INFO Using internal Network Socket
+nid04430:29465:1901 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+TensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuTensorFlow:  1.10
+Model:       inception3
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  4096 global
+             64 per device
+Num batches: 100
+Num epochs:  0.32
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04229:16514:21384 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04229:16514:21384 [0] INFO Using internal Network Socket
+nid04229:16514:21384 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpuDevices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04231:29500:1950 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04231:29500:1950 [0] INFO Using internal Network Socket
+nid04231:29500:1950 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04230:7037:11989 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04230:7037:11989 [0] INFO Using internal Network Socket
+nid04230:7037:11989 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+Devices:     ['horovod/gpu:0', 'horovod/gpu:1', 'horovod/gpu:2', 'horovod/gpu:3', 'horovod/gpu:4', 'horovod/gpu:5', 'horovod/gpu:6', 'horovod/gpu:7', 'horovod/gpu:8', 'horovod/gpu:9', 'horovod/gpu:10', 'horovod/gpu:11', 'horovod/gpu:12', 'horovod/gpu:13', 'horovod/gpu:14', 'horovod/gpu:15', 'horovod/gpu:16', 'horovod/gpu:17', 'horovod/gpu:18', 'horovod/gpu:19', 'horovod/gpu:20', 'horovod/gpu:21', 'horovod/gpu:22', 'horovod/gpu:23', 'horovod/gpu:24', 'horovod/gpu:25', 'horovod/gpu:26', 'horovod/gpu:27', 'horovod/gpu:28', 'horovod/gpu:29', 'horovod/gpu:30', 'horovod/gpu:31', 'horovod/gpu:32', 'horovod/gpu:33', 'horovod/gpu:34', 'horovod/gpu:35', 'horovod/gpu:36', 'horovod/gpu:37', 'horovod/gpu:38', 'horovod/gpu:39', 'horovod/gpu:40', 'horovod/gpu:41', 'horovod/gpu:42', 'horovod/gpu:43', 'horovod/gpu:44', 'horovod/gpu:45', 'horovod/gpu:46', 'horovod/gpu:47', 'horovod/gpu:48', 'horovod/gpu:49', 'horovod/gpu:50', 'horovod/gpu:51', 'horovod/gpu:52', 'horovod/gpu:53', 'horovod/gpu:54', 'horovod/gpu:55', 'horovod/gpu:56', 'horovod/gpu:57', 'horovod/gpu:58', 'horovod/gpu:59', 'horovod/gpu:60', 'horovod/gpu:61', 'horovod/gpu:62', 'horovod/gpu:63']
+Data format: NCHW
+Optimizer:   sgd
+Variables:   horovod
+==========
+Generating model
+Running warm up
+
+nid04232:29774:2237 [0] misc/ibvwrap.cu:61 WARN Failed to open libibverbs.so[.1]
+nid04232:29774:2237 [0] INFO Using internal Network Socket
+nid04232:29774:2237 [0] INFO Using NCCL Low-latency algorithm for sizes below 16384
+nid04320:20629:25497 [0] INFO comm 0x2aab507b4f60 rank 26 nranks 64
+nid04320:20629:25497 [0] INFO NET : Using interface ipogif0:148.187.49.3<0>
+nid04320:20629:25497 [0] INFO NET/Socket : 1 interfaces found
+nid04297:32071:4523 [0] INFO comm 0x2aab507c5510 rank 8 nranks 64
+nid04297:32071:4523 [0] INFO NET : Using interface ipogif0:148.187.48.234<0>
+nid04297:32071:4523 [0] INFO NET/Socket : 1 interfaces found
+nid04314:571:5511 [0] INFO comm 0x2aab507b4f30 rank 20 nranks 64
+nid04314:571:5511 [0] INFO NET : Using interface ipogif0:148.187.48.251<0>
+nid04314:571:5511 [0] INFO NET/Socket : 1 interfaces found
+nid04225:22234:27100 [0] INFO comm 0x2aab50d2a6c0 rank 0 nranks 64
+nid04312:7255:12186 [0] INFO comm 0x2aab507b03e0 rank 18 nranks 64
+nid04312:7255:12186 [0] INFO NET : Using interface ipogif0:148.187.48.249<0>
+nid04312:7255:12186 [0] INFO NET/Socket : 1 interfaces found
+nid04228:16331:21198 [0] INFO comm 0x2aab507c4c10 rank 3 nranks 64
+nid04228:16331:21198 [0] INFO NET : Using interface ipogif0:148.187.48.165<0>
+nid04228:16331:21198 [0] INFO NET/Socket : 1 interfaces found
+nid04322:27831:32736 [0] INFO comm 0x2aab507b57e0 rank 28 nranks 64
+nid04322:27831:32736 [0] INFO NET : Using interface ipogif0:148.187.49.5<0>
+nid04322:27831:32736 [0] INFO NET/Socket : 1 interfaces found
+nid04227:25686:30552 [0] INFO comm 0x2aab507b49c0 rank 2 nranks 64
+nid04364:17771:22641 [0] INFO comm 0x2aab507c4de0 rank 38 nranks 64
+nid04321:25692:30582 [0] INFO comm 0x2aab507b5200 rank 27 nranks 64
+nid04313:675:5614 [0] INFO comm 0x2aab507b5210 rank 19 nranks 64
+nid04324:27154:32050 [0] INFO comm 0x2aab507b5100 rank 30 nranks 64
+nid04321:25692:30582 [0] INFO NET : Using interface ipogif0:148.187.49.4<0>
+nid04227:25686:30552 [0] INFO NET : Using interface ipogif0:148.187.48.164<0>
+nid04321:25692:30582 [0] INFO NET/Socket : 1 interfaces found
+nid04313:675:5614 [0] INFO NET : Using interface ipogif0:148.187.48.250<0>
+nid04227:25686:30552 [0] INFO NET/Socket : 1 interfaces found
+nid04313:675:5614 [0] INFO NET/Socket : 1 interfaces found
+nid04324:27154:32050 [0] INFO NET : Using interface ipogif0:148.187.49.7<0>
+nid04324:27154:32050 [0] INFO NET/Socket : 1 interfaces found
+nid04317:32677:5134 [0] INFO comm 0x2aab507b55c0 rank 23 nranks 64
+nid04364:17771:22641 [0] INFO NET : Using interface ipogif0:148.187.49.47<0>
+nid04364:17771:22641 [0] INFO NET/Socket : 1 interfaces found
+nid04572:6159:11089 [0] INFO comm 0x2aab507c4e60 rank 62 nranks 64
+nid04326:329:5261 [0] INFO comm 0x2aab507c5d40 rank 32 nranks 64
+nid04572:6159:11089 [0] INFO NET : Using interface ipogif0:148.187.50.1<0>
+nid04572:6159:11089 [0] INFO NET/Socket : 1 interfaces found
+nid04570:26686:31548 [0] INFO comm 0x2aab507c53d0 rank 60 nranks 64
+nid04317:32677:5134 [0] INFO NET : Using interface ipogif0:148.187.48.254<0>
+nid04317:32677:5134 [0] INFO NET/Socket : 1 interfaces found
+nid04310:17369:22241 [0] INFO comm 0x2aab507c5a20 rank 16 nranks 64
+nid04326:329:5261 [0] INFO NET : Using interface ipogif0:148.187.49.9<0>
+nid04326:329:5261 [0] INFO NET/Socket : 1 interfaces found
+nid04310:17369:22241 [0] INFO NET : Using interface ipogif0:148.187.48.247<0>
+nid04310:17369:22241 [0] INFO NET/Socket : 1 interfaces found
+nid04318:6809:11733 [0] INFO comm 0x2aab507b04f0 rank 24 nranks 64
+nid04318:6809:11733 [0] INFO NET : Using interface ipogif0:148.187.49.1<0>
+nid04318:6809:11733 [0] INFO NET/Socket : 1 interfaces found
+nid04347:1411:6314 [0] INFO comm 0x2aab507af300 rank 37 nranks 64
+nid04304:21579:26453 [0] INFO comm 0x2aab507b4d90 rank 10 nranks 64
+nid04347:1411:6314 [0] INFO NET : Using interface ipogif0:148.187.49.30<0>
+nid04347:1411:6314 [0] INFO NET/Socket : 1 interfaces found
+nid04304:21579:26453 [0] INFO NET : Using interface ipogif0:148.187.48.241<0>
+nid04304:21579:26453 [0] INFO NET/Socket : 1 interfaces found
+nid04307:13421:18298 [0] INFO comm 0x2aab507b27b0 rank 13 nranks 64
+nid04307:13421:18298 [0] INFO NET : Using interface ipogif0:148.187.48.244<0>
+nid04307:13421:18298 [0] INFO NET/Socket : 1 interfaces found
+nid04306:12652:17530 [0] INFO comm 0x2aab507c5270 rank 12 nranks 64
+nid04570:26686:31548 [0] INFO NET : Using interface ipogif0:148.187.49.253<0>
+nid04502:1028:5961 [0] INFO comm 0x2aab507b14b0 rank 46 nranks 64
+nid04570:26686:31548 [0] INFO NET/Socket : 1 interfaces found
+nid04306:12652:17530 [0] INFO NET : Using interface ipogif0:148.187.48.243<0>
+nid04306:12652:17530 [0] INFO NET/Socket : 1 interfaces found
+nid04502:1028:5961 [0] INFO NET : Using interface ipogif0:148.187.49.185<0>
+nid04502:1028:5961 [0] INFO NET/Socket : 1 interfaces found
+nid04316:11606:16474 [0] INFO comm 0x2aab507b5000 rank 22 nranks 64
+nid04305:11609:16485 [0] INFO comm 0x2aab507b5530 rank 11 nranks 64
+nid04305:11609:16485 [0] INFO NET : Using interface ipogif0:148.187.48.242<0>
+nid04305:11609:16485 [0] INFO NET/Socket : 1 interfaces found
+nid04316:11606:16474 [0] INFO NET : Using interface ipogif0:148.187.48.253<0>
+nid04316:11606:16474 [0] INFO NET/Socket : 1 interfaces found
+nid04226:18211:23076 [0] INFO comm 0x2aab507b46a0 rank 1 nranks 64
+nid04226:18211:23076 [0] INFO NET : Using interface ipogif0:148.187.48.163<0>
+nid04226:18211:23076 [0] INFO NET/Socket : 1 interfaces found
+nid04569:31015:3456 [0] INFO comm 0x2aab507b2900 rank 59 nranks 64
+nid04569:31015:3456 [0] INFO NET : Using interface ipogif0:148.187.49.252<0>
+nid04569:31015:3456 [0] INFO NET/Socket : 1 interfaces found
+nid04300:23668:28534 [0] INFO comm 0x2aab507b4df0 rank 9 nranks 64
+nid04308:12315:17188 [0] INFO comm 0x2aab507b4ec0 rank 14 nranks 64
+nid04308:12315:17188 [0] INFO NET : Using interface ipogif0:148.187.48.245<0>
+nid04308:12315:17188 [0] INFO NET/Socket : 1 interfaces found
+nid04300:23668:28534 [0] INFO NET : Using interface ipogif0:148.187.48.237<0>
+nid04300:23668:28534 [0] INFO NET/Socket : 1 interfaces found
+nid04311:13892:18767 [0] INFO comm 0x2aab507b4e90 rank 17 nranks 64
+nid04311:13892:18767 [0] INFO NET : Using interface ipogif0:148.187.48.248<0>
+nid04311:13892:18767 [0] INFO NET/Socket : 1 interfaces found
+nid04365:10503:15384 [0] INFO comm 0x2aab507b1a40 rank 39 nranks 64
+nid04365:10503:15384 [0] INFO NET : Using interface ipogif0:148.187.49.48<0>
+nid04365:10503:15384 [0] INFO NET/Socket : 1 interfaces found
+nid04315:375:5299 [0] INFO comm 0x2aab507b4b90 rank 21 nranks 64
+nid04315:375:5299 [0] INFO NET : Using interface ipogif0:148.187.48.252<0>
+nid04315:375:5299 [0] INFO NET/Socket : 1 interfaces found
+nid04325:27715:32605 [0] INFO comm 0x2aab507b57d0 rank 31 nranks 64
+nid04325:27715:32605 [0] INFO NET : Using interface ipogif0:148.187.49.8<0>
+nid04325:27715:32605 [0] INFO NET/Socket : 1 interfaces found
+nid04571:22924:27787 [0] INFO comm 0x2aab507b54b0 rank 61 nranks 64
+nid04319:6023:10951 [0] INFO comm 0x2aab507b4d90 rank 25 nranks 64
+nid04319:6023:10951 [0] INFO NET : Using interface ipogif0:148.187.49.2<0>
+nid04319:6023:10951 [0] INFO NET/Socket : 1 interfaces found
+nid04323:25451:30348 [0] INFO comm 0x2aab507b5050 rank 29 nranks 64
+nid04571:22924:27787 [0] INFO NET : Using interface ipogif0:148.187.49.254<0>
+nid04571:22924:27787 [0] INFO NET/Socket : 1 interfaces found
+nid04323:25451:30348 [0] INFO NET : Using interface ipogif0:148.187.49.6<0>
+nid04323:25451:30348 [0] INFO NET/Socket : 1 interfaces found
+nid04510:14035:18911 [0] INFO comm 0x2aab507b50e0 rank 54 nranks 64
+nid04231:29500:1950 [0] INFO comm 0x2aab507b4b70 rank 6 nranks 64
+nid04510:14035:18911 [0] INFO NET : Using interface ipogif0:148.187.49.193<0>
+nid04510:14035:18911 [0] INFO NET/Socket : 1 interfaces found
+nid04231:29500:1950 [0] INFO NET : Using interface ipogif0:148.187.48.168<0>
+nid04231:29500:1950 [0] INFO NET/Socket : 1 interfaces found
+nid04573:25094:29963 [0] INFO comm 0x2aab507c5040 rank 63 nranks 64
+nid04504:485:5404 [0] INFO comm 0x2aab507ae320 rank 48 nranks 64
+nid04573:25094:29963 [0] INFO NET : Using interface ipogif0:148.187.50.2<0>
+nid04573:25094:29963 [0] INFO NET/Socket : 1 interfaces found
+nid04504:485:5404 [0] INFO NET : Using interface ipogif0:148.187.49.187<0>
+nid04504:485:5404 [0] INFO NET/Socket : 1 interfaces found
+nid04327:28783:1231 [0] INFO comm 0x2aab507b4de0 rank 33 nranks 64
+nid04346:5054:10006 [0] INFO comm 0x2aab507af840 rank 36 nranks 64
+nid04327:28783:1231 [0] INFO NET : Using interface ipogif0:148.187.49.10<0>
+nid04567:798:5738 [0] INFO comm 0x2aab507b4f50 rank 57 nranks 64
+nid04506:6058:11001 [0] INFO comm 0x2aab507c47e0 rank 50 nranks 64
+nid04327:28783:1231 [0] INFO NET/Socket : 1 interfaces found
+nid04346:5054:10006 [0] INFO NET : Using interface ipogif0:148.187.49.29<0>
+nid04346:5054:10006 [0] INFO NET/Socket : 1 interfaces found
+nid04329:24537:29439 [0] INFO comm 0x2aab507b51c0 rank 35 nranks 64
+nid04329:24537:29439 [0] INFO NET : Using interface ipogif0:148.187.49.12<0>
+nid04329:24537:29439 [0] INFO NET/Socket : 1 interfaces found
+nid04567:798:5738 [0] INFO NET : Using interface ipogif0:148.187.49.250<0>
+nid04567:798:5738 [0] INFO NET/Socket : 1 interfaces found
+nid04507:4801:9768 [0] INFO comm 0x2aab507c4fc0 rank 51 nranks 64
+nid04506:6058:11001 [0] INFO NET : Using interface ipogif0:148.187.49.189<0>
+nid04507:4801:9768 [0] INFO NET : Using interface ipogif0:148.187.49.190<0>
+nid04506:6058:11001 [0] INFO NET/Socket : 1 interfaces found
+nid04507:4801:9768 [0] INFO NET/Socket : 1 interfaces found
+nid04328:32765:5228 [0] INFO comm 0x2aab507b4f50 rank 34 nranks 64
+nid04328:32765:5228 [0] INFO NET : Using interface ipogif0:148.187.49.11<0>
+nid04328:32765:5228 [0] INFO NET/Socket : 1 interfaces found
+nid04503:31872:4317 [0] INFO comm 0x2aab507b54d0 rank 47 nranks 64
+nid04503:31872:4317 [0] INFO NET : Using interface ipogif0:148.187.49.186<0>
+nid04503:31872:4317 [0] INFO NET/Socket : 1 interfaces found
+nid04508:20381:25247 [0] INFO comm 0x2aab507b5510 rank 52 nranks 64
+nid04508:20381:25247 [0] INFO NET : Using interface ipogif0:148.187.49.191<0>
+nid04508:20381:25247 [0] INFO NET/Socket : 1 interfaces found
+nid04430:29465:1901 [0] INFO comm 0x2aab507b5210 rank 41 nranks 64
+nid04430:29465:1901 [0] INFO NET : Using interface ipogif0:148.187.49.113<0>
+nid04430:29465:1901 [0] INFO NET/Socket : 1 interfaces found
+nid04500:1549:6451 [0] INFO comm 0x2aab507b5340 rank 44 nranks 64
+nid04500:1549:6451 [0] INFO NET : Using interface ipogif0:148.187.49.183<0>
+nid04500:1549:6451 [0] INFO NET/Socket : 1 interfaces found
+nid04428:9605:14475 [0] INFO comm 0x2aab507c67c0 rank 40 nranks 64
+nid04428:9605:14475 [0] INFO NET : Using interface ipogif0:148.187.49.111<0>
+nid04428:9605:14475 [0] INFO NET/Socket : 1 interfaces found
+nid04232:29774:2237 [0] INFO comm 0x2aab507b6080 rank 7 nranks 64
+nid04232:29774:2237 [0] INFO NET : Using interface ipogif0:148.187.48.169<0>
+nid04232:29774:2237 [0] INFO NET/Socket : 1 interfaces found
+nid04230:7037:11989 [0] INFO comm 0x2aab507b4bd0 rank 5 nranks 64
+nid04230:7037:11989 [0] INFO NET : Using interface ipogif0:148.187.48.167<0>
+nid04230:7037:11989 [0] INFO NET/Socket : 1 interfaces found
+nid04435:3624:8588 [0] INFO comm 0x2aab507b4cc0 rank 42 nranks 64
+nid04435:3624:8588 [0] INFO NET : Using interface ipogif0:148.187.49.118<0>
+nid04435:3624:8588 [0] INFO NET/Socket : 1 interfaces found
+nid04511:10919:15800 [0] INFO comm 0x2aab507b53a0 rank 55 nranks 64
+nid04566:30207:2651 [0] INFO comm 0x2aab507c58c0 rank 56 nranks 64
+nid04511:10919:15800 [0] INFO NET : Using interface ipogif0:148.187.49.194<0>
+nid04511:10919:15800 [0] INFO NET/Socket : 1 interfaces found
+nid04566:30207:2651 [0] INFO NET : Using interface ipogif0:148.187.49.249<0>
+nid04566:30207:2651 [0] INFO NET/Socket : 1 interfaces found
+nid04501:423:5343 [0] INFO comm 0x2aab507ae930 rank 45 nranks 64
+nid04501:423:5343 [0] INFO NET : Using interface ipogif0:148.187.49.184<0>
+nid04501:423:5343 [0] INFO NET/Socket : 1 interfaces found
+nid04509:10165:15038 [0] INFO comm 0x2aab507b4cf0 rank 53 nranks 64
+nid04509:10165:15038 [0] INFO NET : Using interface ipogif0:148.187.49.192<0>
+nid04509:10165:15038 [0] INFO NET/Socket : 1 interfaces found
+nid04568:6818:11742 [0] INFO comm 0x2aab507b4c00 rank 58 nranks 64
+nid04568:6818:11742 [0] INFO NET : Using interface ipogif0:148.187.49.251<0>
+nid04568:6818:11742 [0] INFO NET/Socket : 1 interfaces found
+nid04505:29967:2402 [0] INFO comm 0x2aab507b4d70 rank 49 nranks 64
+nid04505:29967:2402 [0] INFO NET : Using interface ipogif0:148.187.49.188<0>
+nid04505:29967:2402 [0] INFO NET/Socket : 1 interfaces found
+nid04229:16514:21384 [0] INFO comm 0x2aab507b4eb0 rank 4 nranks 64
+nid04229:16514:21384 [0] INFO NET : Using interface ipogif0:148.187.48.166<0>
+nid04229:16514:21384 [0] INFO NET/Socket : 1 interfaces found
+nid04309:11978:16853 [0] INFO comm 0x2aab507b5020 rank 15 nranks 64
+nid04309:11978:16853 [0] INFO NET : Using interface ipogif0:148.187.48.246<0>
+nid04309:11978:16853 [0] INFO NET/Socket : 1 interfaces found
+nid04499:4930:9886 [0] INFO comm 0x2aab507b51f0 rank 43 nranks 64
+nid04499:4930:9886 [0] INFO NET : Using interface ipogif0:148.187.49.182<0>
+nid04499:4930:9886 [0] INFO NET/Socket : 1 interfaces found
+nid04225:22234:27100 [0] INFO Using 256 threads
+nid04225:22234:27100 [0] INFO Min Comp Cap 6
+nid04225:22234:27100 [0] INFO NCCL_SINGLE_RING_THRESHOLD=131072
+nid04225:22234:27100 [0] INFO Ring 00 :    0   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19
+nid04227:25686:30552 [0] INFO 1 -> 2 via NET/Socket/0
+nid04228:16331:21198 [0] INFO 2 -> 3 via NET/Socket/0
+nid04230:7037:11989 [0] INFO 4 -> 5 via NET/Socket/0
+nid04305:11609:16485 [0] INFO 10 -> 11 via NET/Socket/0
+nid04229:16514:21384 [0] INFO 3 -> 4 via NET/Socket/0
+nid04297:32071:4523 [0] INFO 7 -> 8 via NET/Socket/0
+nid04304:21579:26453 [0] INFO 9 -> 10 via NET/Socket/0
+nid04318:6809:11733 [0] INFO 23 -> 24 via NET/Socket/0
+nid04309:11978:16853 [0] INFO 14 -> 15 via NET/Socket/0
+nid04311:13892:18767 [0] INFO 16 -> 17 via NET/Socket/0
+nid04314:571:5511 [0] INFO 19 -> 20 via NET/Socket/0
+nid04232:29774:2237 [0] INFO 6 -> 7 via NET/Socket/0
+nid04321:25692:30582 [0] INFO 26 -> 27 via NET/Socket/0
+nid04323:25451:30348 [0] INFO 28 -> 29 via NET/Socket/0
+nid04306:12652:17530 [0] INFO 11 -> 12 via NET/Socket/0
+nid04316:11606:16474 [0] INFO 21 -> 22 via NET/Socket/0
+nid04317:32677:5134 [0] INFO 22 -> 23 via NET/Socket/0
+nid04300:23668:28534 [0] INFO 8 -> 9 via NET/Socket/0
+nid04346:5054:10006 [0] INFO 35 -> 36 via NET/Socket/0
+nid04347:1411:6314 [0] INFO 36 -> 37 via NET/Socket/0
+nid04435:3624:8588 [0] INFO 41 -> 42 via NET/Socket/0
+nid04503:31872:4317 [0] INFO 46 -> 47 via NET/Socket/0
+nid04225:22234:27100 [0] INFO 63 -> 0 via NET/Socket/0
+nid04324:27154:32050 [0] INFO 29 -> 30 via NET/Socket/0
+nid04365:10503:15384 [0] INFO 38 -> 39 via NET/Socket/0
+nid04329:24537:29439 [0] INFO 34 -> 35 via NET/Socket/0
+nid04573:25094:29963 [0] INFO 62 -> 63 via NET/Socket/0
+nid04328:32765:5228 [0] INFO 33 -> 34 via NET/Socket/0
+nid04572:6159:11089 [0] INFO 61 -> 62 via NET/Socket/0
+nid04322:27831:32736 [0] INFO 27 -> 28 via NET/Socket/0
+nid04325:27715:32605 [0] INFO 30 -> 31 via NET/Socket/0
+nid04231:29500:1950 [0] INFO 5 -> 6 via NET/Socket/0
+nid04508:20381:25247 [0] INFO 51 -> 52 via NET/Socket/0
+nid04566:30207:2651 [0] INFO 55 -> 56 via NET/Socket/0
+nid04568:6818:11742 [0] INFO 57 -> 58 via NET/Socket/0
+nid04504:485:5404 [0] INFO 47 -> 48 via NET/Socket/0
+nid04510:14035:18911 [0] INFO 53 -> 54 via NET/Socket/0
+nid04501:423:5343 [0] INFO 44 -> 45 via NET/Socket/0
+nid04567:798:5738 [0] INFO 56 -> 57 via NET/Socket/0
+nid04511:10919:15800 [0] INFO 54 -> 55 via NET/Socket/0
+nid04509:10165:15038 [0] INFO 52 -> 53 via NET/Socket/0
+nid04506:6058:11001 [0] INFO 49 -> 50 via NET/Socket/0
+nid04500:1549:6451 [0] INFO 43 -> 44 via NET/Socket/0
+nid04326:329:5261 [0] INFO 31 -> 32 via NET/Socket/0
+nid04364:17771:22641 [0] INFO 37 -> 38 via NET/Socket/0
+nid04499:4930:9886 [0] INFO 42 -> 43 via NET/Socket/0
+nid04320:20629:25497 [0] INFO 25 -> 26 via NET/Socket/0
+nid04507:4801:9768 [0] INFO 50 -> 51 via NET/Socket/0
+nid04308:12315:17188 [0] INFO 13 -> 14 via NET/Socket/0
+nid04226:18211:23076 [0] INFO 0 -> 1 via NET/Socket/0
+nid04313:675:5614 [0] INFO 18 -> 19 via NET/Socket/0
+nid04312:7255:12186 [0] INFO 17 -> 18 via NET/Socket/0
+nid04571:22924:27787 [0] INFO 60 -> 61 via NET/Socket/0
+nid04570:26686:31548 [0] INFO 59 -> 60 via NET/Socket/0
+nid04505:29967:2402 [0] INFO 48 -> 49 via NET/Socket/0
+nid04428:9605:14475 [0] INFO 39 -> 40 via NET/Socket/0
+nid04502:1028:5961 [0] INFO 45 -> 46 via NET/Socket/0
+nid04307:13421:18298 [0] INFO 12 -> 13 via NET/Socket/0
+nid04319:6023:10951 [0] INFO 24 -> 25 via NET/Socket/0
+nid04315:375:5299 [0] INFO 20 -> 21 via NET/Socket/0
+nid04310:17369:22241 [0] INFO 15 -> 16 via NET/Socket/0
+nid04327:28783:1231 [0] INFO 32 -> 33 via NET/Socket/0
+nid04569:31015:3456 [0] INFO 58 -> 59 via NET/Socket/0
+nid04430:29465:1901 [0] INFO 40 -> 41 via NET/Socket/0
+nid04225:22234:27100 [0] INFO Launch mode Parallel
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 127.4 +/- 0.0 (jitter = 0.0)	7.330
+10	images/sec: 135.1 +/- 1.1 (jitter = 3.6)	7.349
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.7)	7.405
+30	images/sec: 135.5 +/- 0.6 (jitter = 3.2)	7.323
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.1)	7.364
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.376
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.374
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.1)	7.386
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.338
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.393
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.368
+----------------------------------------------------------------
+total images/sec: 8680.18
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.7 +/- 0.0 (jitter = 0.0)	7.374
+10	images/sec: 135.0 +/- 1.2 (jitter = 3.7)	7.364
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.6)	7.368
+30	images/sec: 135.5 +/- 0.6 (jitter = 3.3)	7.321
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.342
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.374
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.368
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.377
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.343
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.359
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.370
+----------------------------------------------------------------
+total images/sec: 8679.76
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.7 +/- 0.0 (jitter = 0.0)	7.377
+10	images/sec: 135.0 +/- 1.2 (jitter = 3.8)	7.348
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.8)	7.352
+30	images/sec: 135.5 +/- 0.6 (jitter = 3.5)	7.340
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.356
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.2)	7.325
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.2)	7.358
+70	images/sec: 135.4 +/- 0.4 (jitter = 3.0)	7.338
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.381
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.326
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.348
+----------------------------------------------------------------
+total images/sec: 8679.68
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.6 +/- 0.0 (jitter = 0.0)	7.378
+10	images/sec: 135.0 +/- 1.2 (jitter = 3.8)	7.374
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.2)	7.371
+30	images/sec: 135.5 +/- 0.5 (jitter = 2.7)	7.368
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.346
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.399
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.328
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.373
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.1)	7.337
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.338
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.362
+----------------------------------------------------------------
+total images/sec: 8679.41
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.7 +/- 0.0 (jitter = 0.0)	7.373
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.0)	7.373
+20	images/sec: 135.5 +/- 0.6 (jitter = 3.0)	7.381
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.3)	7.360
+40	images/sec: 135.2 +/- 0.5 (jitter = 2.8)	7.385
+50	images/sec: 135.3 +/- 0.4 (jitter = 2.6)	7.353
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.8)	7.343
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.8)	7.331
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.388
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.343
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.4)	7.365
+----------------------------------------------------------------
+total images/sec: 8680.09
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.4 +/- 0.0 (jitter = 0.0)	7.374
+10	images/sec: 135.2 +/- 1.1 (jitter = 3.8)	7.345
+20	images/sec: 135.5 +/- 0.7 (jitter = 3.8)	7.325
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.4)	7.325
+40	images/sec: 135.3 +/- 0.5 (jitter = 3.0)	7.363
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.3)	7.376
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.3)	7.354
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.1)	7.326
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.357
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.358
+100	images/sec: 135.7 +/- 0.3 (jitter = 2.6)	7.378
+----------------------------------------------------------------
+total images/sec: 8680.87
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.5 +/- 0.0 (jitter = 0.0)	7.368
+10	images/sec: 135.2 +/- 1.1 (jitter = 3.7)	7.365
+20	images/sec: 135.5 +/- 0.7 (jitter = 3.7)	7.364
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.3)	7.364
+40	images/sec: 135.3 +/- 0.5 (jitter = 2.9)	7.378
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.336
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.347
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.369
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.351
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.336
+100	images/sec: 135.7 +/- 0.3 (jitter = 2.7)	7.347
+----------------------------------------------------------------
+total images/sec: 8680.92
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.8 +/- 0.0 (jitter = 0.0)	7.340
+10	images/sec: 135.0 +/- 1.2 (jitter = 4.0)	7.380
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.6)	7.370
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.1)	7.339
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.1)	7.318
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.2)	7.331
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.2)	7.353
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.360
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.2)	7.363
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.357
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.356
+----------------------------------------------------------------
+total images/sec: 8679.39
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.7 +/- 0.0 (jitter = 0.0)	7.346
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.8)	7.357
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.5)	7.351
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.1)	7.348
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.4)	7.364
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.2)	7.351
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.364
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.7)	7.378
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.340
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.328
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.350
+----------------------------------------------------------------
+total images/sec: 8679.78
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.7 +/- 0.0 (jitter = 0.0)	7.333
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.8)	7.358
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.3)	7.393
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.0)	7.346
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.4)	7.350
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.3)	7.335
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.3)	7.360
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.340
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.338
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.363
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.369
+----------------------------------------------------------------
+total images/sec: 8679.87
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.5 +/- 0.0 (jitter = 0.0)	7.361
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.8)	7.343
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.5)	7.380
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.0)	7.382
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.3)	7.358
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.344
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.0)	7.355
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.7)	7.352
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.374
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.394
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.5)	7.380
+----------------------------------------------------------------
+total images/sec: 8679.73
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.7 +/- 0.0 (jitter = 0.0)	7.350
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.9)	7.356
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.4)	7.349
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.1)	7.378
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.4)	7.341
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.3)	7.352
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.2)	7.371
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.372
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.366
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.362
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.334
+----------------------------------------------------------------
+total images/sec: 8679.73
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.6 +/- 0.0 (jitter = 0.0)	7.376
+10	images/sec: 135.2 +/- 1.0 (jitter = 2.5)	7.357
+20	images/sec: 135.5 +/- 0.6 (jitter = 3.2)	7.361
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.9)	7.378
+40	images/sec: 135.3 +/- 0.4 (jitter = 2.8)	7.328
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.9)	7.396
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.9)	7.391
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.389
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.370
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.315
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.375
+----------------------------------------------------------------
+total images/sec: 8679.87
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.8 +/- 0.0 (jitter = 0.0)	7.348
+10	images/sec: 135.0 +/- 1.2 (jitter = 3.5)	7.357
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.8)	7.350
+30	images/sec: 135.5 +/- 0.6 (jitter = 3.3)	7.388
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.356
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.375
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.343
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.1)	7.336
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.393
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.366
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.354
+----------------------------------------------------------------
+total images/sec: 8679.71
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.5 +/- 0.0 (jitter = 0.0)	7.381
+10	images/sec: 135.1 +/- 1.0 (jitter = 3.5)	7.368
+20	images/sec: 135.5 +/- 0.7 (jitter = 3.9)	7.352
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.6)	7.349
+40	images/sec: 135.3 +/- 0.5 (jitter = 3.4)	7.368
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.4)	7.326
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.4)	7.356
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.3)	7.392
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.1)	7.341
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.348
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.357
+----------------------------------------------------------------
+total images/sec: 8679.77
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.6 +/- 0.0 (jitter = 0.0)	7.358
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.9)	7.371
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.5)	7.368
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.0)	7.373
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.4)	7.379
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.2)	7.354
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.0)	7.354
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.8)	7.378
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.365
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.342
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.5)	7.391
+----------------------------------------------------------------
+total images/sec: 8679.72
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.6 +/- 0.0 (jitter = 0.0)	7.368
+10	images/sec: 135.0 +/- 1.2 (jitter = 4.0)	7.333
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.8)	7.313
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.5)	7.360
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.1)	7.367
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.3)	7.384
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.3)	7.348
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.2)	7.372
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.1)	7.328
+90	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.349
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.350
+----------------------------------------------------------------
+total images/sec: 8679.46
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.6 +/- 0.0 (jitter = 0.0)	7.374
+10	images/sec: 135.0 +/- 1.2 (jitter = 3.7)	7.376
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.5)	7.355
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.3)	7.376
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.362
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.2)	7.323
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.305
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.373
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.374
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.385
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.380
+----------------------------------------------------------------
+total images/sec: 8679.65
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.5 +/- 0.0 (jitter = 0.0)	7.362
+10	images/sec: 135.0 +/- 1.2 (jitter = 3.8)	7.374
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.7)	7.375
+30	images/sec: 135.5 +/- 0.6 (jitter = 3.4)	7.370
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.355
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.2)	7.344
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.2)	7.354
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.372
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.385
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.345
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.372
+----------------------------------------------------------------
+total images/sec: 8679.45
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.7 +/- 0.0 (jitter = 0.0)	7.338
+10	images/sec: 135.0 +/- 1.2 (jitter = 3.9)	7.402
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.9)	7.360
+30	images/sec: 135.5 +/- 0.6 (jitter = 3.4)	7.351
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.396
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.3)	7.389
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.3)	7.375
+70	images/sec: 135.4 +/- 0.4 (jitter = 2.9)	7.373
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.353
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.341
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.332
+----------------------------------------------------------------
+total images/sec: 8679.66
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.7 +/- 0.0 (jitter = 0.0)	7.388
+10	images/sec: 135.0 +/- 1.2 (jitter = 3.9)	7.372
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.5)	7.360
+30	images/sec: 135.5 +/- 0.5 (jitter = 2.9)	7.355
+40	images/sec: 135.2 +/- 0.5 (jitter = 2.9)	7.356
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.378
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.349
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.390
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.354
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.355
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.347
+----------------------------------------------------------------
+total images/sec: 8679.41
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.8 +/- 0.0 (jitter = 0.0)	7.369
+10	images/sec: 135.0 +/- 1.2 (jitter = 3.6)	7.338
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.6)	7.332
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.4)	7.402
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.367
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.2)	7.344
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.2)	7.330
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.8)	7.361
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.368
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.313
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.361
+----------------------------------------------------------------
+total images/sec: 8679.70
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.4 +/- 0.0 (jitter = 0.0)	7.372
+10	images/sec: 135.1 +/- 1.0 (jitter = 3.4)	7.336
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.6)	7.359
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.2)	7.345
+40	images/sec: 135.2 +/- 0.5 (jitter = 2.8)	7.332
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.9)	7.357
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.9)	7.343
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.2)	7.347
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.384
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.355
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.338
+----------------------------------------------------------------
+total images/sec: 8680.21
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.8 +/- 0.0 (jitter = 0.0)	7.367
+10	images/sec: 135.0 +/- 1.2 (jitter = 4.0)	7.356
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.5)	7.355
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.0)	7.328
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.1)	7.327
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.2)	7.380
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.2)	7.349
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.330
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.1)	7.319
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.357
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.343
+----------------------------------------------------------------
+total images/sec: 8679.41
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.6 +/- 0.0 (jitter = 0.0)	7.366
+10	images/sec: 135.0 +/- 1.2 (jitter = 3.9)	7.352
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.3)	7.366
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.0)	7.387
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.343
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.2)	7.346
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.379
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.333
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.1)	7.362
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.361
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.349
+----------------------------------------------------------------
+total images/sec: 8679.39
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.6 +/- 0.0 (jitter = 0.0)	7.332
+10	images/sec: 135.0 +/- 1.2 (jitter = 4.0)	7.341
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.7)	7.389
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.1)	7.383
+40	images/sec: 135.2 +/- 0.5 (jitter = 2.9)	7.383
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.344
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.360
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.321
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.373
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.386
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.343
+----------------------------------------------------------------
+total images/sec: 8679.50
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.6 +/- 0.0 (jitter = 0.0)	7.360
+10	images/sec: 135.0 +/- 1.2 (jitter = 4.0)	7.361
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.6)	7.332
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.1)	7.369
+40	images/sec: 135.2 +/- 0.5 (jitter = 2.9)	7.396
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.391
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.386
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.385
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.341
+90	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.380
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.358
+----------------------------------------------------------------
+total images/sec: 8679.50
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.5 +/- 0.0 (jitter = 0.0)	7.401
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.6)	7.328
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.2)	7.346
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.0)	7.346
+40	images/sec: 135.1 +/- 0.5 (jitter = 2.8)	7.387
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.8)	7.359
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.0)	7.366
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.1)	7.361
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.1)	7.335
+90	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.375
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.371
+----------------------------------------------------------------
+total images/sec: 8680.06
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.7 +/- 0.0 (jitter = 0.0)	7.376
+10	images/sec: 135.1 +/- 1.0 (jitter = 1.6)	7.366
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.0)	7.371
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.4)	7.373
+40	images/sec: 135.1 +/- 0.5 (jitter = 2.9)	7.347
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.8)	7.353
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.8)	7.367
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.367
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.347
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.348
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.4)	7.383
+----------------------------------------------------------------
+total images/sec: 8680.12
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.2 +/- 0.0 (jitter = 0.0)	7.360
+10	images/sec: 135.1 +/- 1.1 (jitter = 2.9)	7.354
+20	images/sec: 135.4 +/- 0.6 (jitter = 2.8)	7.360
+30	images/sec: 135.5 +/- 0.5 (jitter = 2.8)	7.357
+40	images/sec: 135.1 +/- 0.5 (jitter = 2.9)	7.320
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.8)	7.389
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.8)	7.356
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.7)	7.342
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.328
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.383
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.350
+----------------------------------------------------------------
+total images/sec: 8679.74
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.4 +/- 0.0 (jitter = 0.0)	7.381
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.7)	7.352
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.3)	7.381
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.0)	7.368
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.2)	7.341
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.0)	7.379
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.0)	7.339
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.353
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.357
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.370
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.365
+----------------------------------------------------------------
+total images/sec: 8680.00
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.5 +/- 0.0 (jitter = 0.0)	7.356
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.4)	7.326
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.3)	7.366
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.8)	7.336
+40	images/sec: 135.3 +/- 0.4 (jitter = 2.9)	7.366
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.9)	7.333
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.9)	7.373
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.8)	7.335
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.339
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.330
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.4)	7.358
+----------------------------------------------------------------
+total images/sec: 8679.90
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.2 +/- 0.0 (jitter = 0.0)	7.352
+10	images/sec: 135.1 +/- 1.1 (jitter = 3.6)	7.350
+20	images/sec: 135.4 +/- 0.7 (jitter = 4.0)	7.339
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.6)	7.336
+40	images/sec: 135.2 +/- 0.5 (jitter = 2.9)	7.325
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.335
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.394
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.2)	7.359
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.3)	7.340
+90	images/sec: 135.6 +/- 0.3 (jitter = 3.1)	7.337
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.358
+----------------------------------------------------------------
+total images/sec: 8679.96
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.6 +/- 0.0 (jitter = 0.0)	7.405
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.4)	7.356
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.4)	7.356
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.0)	7.356
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.3)	7.346
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.393
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.2)	7.359
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.2)	7.360
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.365
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.336
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.349
+----------------------------------------------------------------
+total images/sec: 8680.14
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.9 +/- 0.0 (jitter = 0.0)	7.361
+10	images/sec: 135.0 +/- 1.1 (jitter = 3.9)	7.337
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.7)	7.369
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.5)	7.372
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.343
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.4)	7.354
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.4)	7.361
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.1)	7.374
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.2)	7.366
+90	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.389
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.379
+----------------------------------------------------------------
+total images/sec: 8679.44
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.2 +/- 0.0 (jitter = 0.0)	7.394
+10	images/sec: 135.1 +/- 1.1 (jitter = 3.6)	7.376
+20	images/sec: 135.4 +/- 0.7 (jitter = 4.0)	7.401
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.6)	7.342
+40	images/sec: 135.2 +/- 0.5 (jitter = 2.8)	7.340
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.361
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.369
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.2)	7.374
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.4)	7.357
+90	images/sec: 135.6 +/- 0.3 (jitter = 3.1)	7.364
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.388
+----------------------------------------------------------------
+total images/sec: 8679.96
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.8 +/- 0.0 (jitter = 0.0)	7.375
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.0)	7.389
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.3)	7.394
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.6)	7.378
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.1)	7.385
+50	images/sec: 135.3 +/- 0.4 (jitter = 2.9)	7.369
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.359
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.341
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.355
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.404
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.4)	7.351
+----------------------------------------------------------------
+total images/sec: 8680.18
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.4 +/- 0.0 (jitter = 0.0)	7.385
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.4)	7.323
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.0)	7.357
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.9)	7.382
+40	images/sec: 135.2 +/- 0.5 (jitter = 2.6)	7.356
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.8)	7.361
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.8)	7.334
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.357
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.321
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.386
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.372
+----------------------------------------------------------------
+total images/sec: 8680.03
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.6 +/- 0.0 (jitter = 0.0)	7.365
+10	images/sec: 135.0 +/- 1.2 (jitter = 4.0)	7.348
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.3)	7.312
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.1)	7.335
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.359
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.2)	7.355
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.2)	7.329
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.349
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.2)	7.367
+90	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.365
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.370
+----------------------------------------------------------------
+total images/sec: 8679.40
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 127.1 +/- 0.0 (jitter = 0.0)	7.353
+10	images/sec: 135.0 +/- 1.1 (jitter = 3.9)	7.328
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.8)	7.336
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.5)	7.327
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.354
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.3)	7.390
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.3)	7.355
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.338
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.2)	7.355
+90	images/sec: 135.6 +/- 0.3 (jitter = 3.1)	7.373
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.313
+----------------------------------------------------------------
+total images/sec: 8679.57
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.7 +/- 0.0 (jitter = 0.0)	7.362
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.5)	7.373
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.3)	7.358
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.8)	7.352
+40	images/sec: 135.2 +/- 0.5 (jitter = 2.8)	7.329
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.9)	7.343
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.9)	7.364
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.386
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.357
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.374
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.360
+----------------------------------------------------------------
+total images/sec: 8679.84
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.6 +/- 0.0 (jitter = 0.0)	7.369
+10	images/sec: 135.1 +/- 1.0 (jitter = 1.7)	7.383
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.1)	7.396
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.8)	7.355
+40	images/sec: 135.1 +/- 0.5 (jitter = 2.9)	7.360
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.9)	7.324
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.0)	7.379
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.1)	7.367
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.1)	7.371
+90	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.388
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.364
+----------------------------------------------------------------
+total images/sec: 8680.10
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.3 +/- 0.0 (jitter = 0.0)	7.327
+10	images/sec: 135.1 +/- 1.0 (jitter = 3.3)	7.357
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.3)	7.351
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.0)	7.370
+40	images/sec: 135.2 +/- 0.5 (jitter = 2.9)	7.365
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.0)	7.368
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.388
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.2)	7.357
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.349
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.386
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.357
+----------------------------------------------------------------
+total images/sec: 8680.10
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.4 +/- 0.0 (jitter = 0.0)	7.358
+10	images/sec: 135.1 +/- 1.0 (jitter = 3.0)	7.351
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.5)	7.332
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.1)	7.374
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.1)	7.344
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.0)	7.364
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.0)	7.356
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.7)	7.365
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.380
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.326
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.5)	7.380
+----------------------------------------------------------------
+total images/sec: 8679.70
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.6 +/- 0.0 (jitter = 0.0)	7.418
+10	images/sec: 135.2 +/- 1.0 (jitter = 2.4)	7.363
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.3)	7.366
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.1)	7.365
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.2)	7.379
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.370
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.362
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.380
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.360
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.331
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.359
+----------------------------------------------------------------
+total images/sec: 8680.15
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.6 +/- 0.0 (jitter = 0.0)	7.358
+10	images/sec: 135.2 +/- 1.0 (jitter = 2.4)	7.363
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.3)	7.377
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.9)	7.356
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.2)	7.377
+50	images/sec: 135.3 +/- 0.4 (jitter = 3.0)	7.373
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.0)	7.334
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.356
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.351
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.367
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.5)	7.381
+----------------------------------------------------------------
+total images/sec: 8680.14
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.5 +/- 0.0 (jitter = 0.0)	7.353
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.9)	7.353
+20	images/sec: 135.4 +/- 0.6 (jitter = 2.8)	7.350
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.7)	7.351
+40	images/sec: 135.1 +/- 0.5 (jitter = 2.9)	7.379
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.7)	7.375
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.7)	7.311
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.8)	7.368
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.377
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.353
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.364
+----------------------------------------------------------------
+total images/sec: 8679.96
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.5 +/- 0.0 (jitter = 0.0)	7.373
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.9)	7.358
+20	images/sec: 135.4 +/- 0.6 (jitter = 2.8)	7.341
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.7)	7.376
+40	images/sec: 135.1 +/- 0.5 (jitter = 2.9)	7.369
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.7)	7.331
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.8)	7.365
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.8)	7.389
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.334
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.367
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.393
+----------------------------------------------------------------
+total images/sec: 8679.84
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 127.5 +/- 0.0 (jitter = 0.0)	7.375
+10	images/sec: 135.0 +/- 1.1 (jitter = 3.5)	7.346
+20	images/sec: 135.3 +/- 0.7 (jitter = 4.1)	7.374
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.6)	7.339
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.345
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.2)	7.321
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.2)	7.384
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.4)	7.323
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.1)	7.360
+90	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.357
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.358
+----------------------------------------------------------------
+total images/sec: 8679.48
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.7 +/- 0.0 (jitter = 0.0)	7.383
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.6)	7.337
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.2)	7.385
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.9)	7.332
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.375
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.330
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.3)	7.360
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.353
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.339
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.386
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.338
+----------------------------------------------------------------
+total images/sec: 8679.87
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.9 +/- 0.0 (jitter = 0.0)	7.367
+10	images/sec: 135.0 +/- 1.1 (jitter = 3.9)	7.371
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.8)	7.369
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.5)	7.321
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.387
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.4)	7.357
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.4)	7.353
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.1)	7.340
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.1)	7.338
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.357
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.339
+----------------------------------------------------------------
+total images/sec: 8679.46
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.6 +/- 0.0 (jitter = 0.0)	7.361
+10	images/sec: 135.0 +/- 1.2 (jitter = 4.0)	7.356
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.7)	7.359
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.2)	7.358
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.1)	7.325
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.3)	7.356
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.3)	7.334
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.355
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.343
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.357
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.346
+----------------------------------------------------------------
+total images/sec: 8679.48
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.7 +/- 0.0 (jitter = 0.0)	7.372
+10	images/sec: 135.0 +/- 1.2 (jitter = 3.7)	7.338
+20	images/sec: 135.3 +/- 0.8 (jitter = 3.8)	7.349
+30	images/sec: 135.5 +/- 0.6 (jitter = 3.4)	7.359
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.340
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.0)	7.348
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.0)	7.336
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.1)	7.334
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.342
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.377
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.360
+----------------------------------------------------------------
+total images/sec: 8679.72
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 126.6 +/- 0.0 (jitter = 0.0)	7.341
+10	images/sec: 135.0 +/- 1.2 (jitter = 3.9)	7.338
+20	images/sec: 135.3 +/- 0.7 (jitter = 3.8)	7.335
+30	images/sec: 135.5 +/- 0.5 (jitter = 3.4)	7.338
+40	images/sec: 135.2 +/- 0.5 (jitter = 3.0)	7.383
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.3)	7.408
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.3)	7.369
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.372
+80	images/sec: 135.6 +/- 0.3 (jitter = 3.0)	7.352
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.371
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.351
+----------------------------------------------------------------
+total images/sec: 8679.58
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.6 +/- 0.0 (jitter = 0.0)	7.389
+10	images/sec: 135.2 +/- 1.0 (jitter = 2.7)	7.340
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.3)	7.368
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.0)	7.346
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.3)	7.347
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.0)	7.354
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.0)	7.370
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.361
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.308
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.312
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.372
+----------------------------------------------------------------
+total images/sec: 8679.99
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.5 +/- 0.0 (jitter = 0.0)	7.354
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.6)	7.406
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.3)	7.339
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.9)	7.329
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.2)	7.313
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.9)	7.390
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.9)	7.342
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.351
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.335
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.362
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.375
+----------------------------------------------------------------
+total images/sec: 8680.05
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.8 +/- 0.0 (jitter = 0.0)	7.339
+10	images/sec: 135.2 +/- 1.0 (jitter = 2.2)	7.354
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.3)	7.338
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.8)	7.349
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.1)	7.368
+50	images/sec: 135.3 +/- 0.4 (jitter = 2.9)	7.375
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.2)	7.368
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.9)	7.355
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.348
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.330
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.5)	7.371
+----------------------------------------------------------------
+total images/sec: 8680.24
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.6 +/- 0.0 (jitter = 0.0)	7.354
+10	images/sec: 135.2 +/- 1.0 (jitter = 2.5)	7.344
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.3)	7.347
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.8)	7.358
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.3)	7.349
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.8)	7.378
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.8)	7.324
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.363
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.376
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.367
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.355
+----------------------------------------------------------------
+total images/sec: 8680.00
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.6 +/- 0.0 (jitter = 0.0)	7.397
+10	images/sec: 135.2 +/- 1.0 (jitter = 2.4)	7.350
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.3)	7.352
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.0)	7.385
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.2)	7.355
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.0)	7.359
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.376
+70	images/sec: 135.4 +/- 0.3 (jitter = 3.0)	7.358
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.7)	7.359
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.387
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.377
+----------------------------------------------------------------
+total images/sec: 8680.15
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.4 +/- 0.0 (jitter = 0.0)	7.369
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.7)	7.378
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.3)	7.358
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.8)	7.360
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.3)	7.372
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.0)	7.348
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.9)	7.368
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.6)	7.366
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.347
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.362
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.5)	7.330
+----------------------------------------------------------------
+total images/sec: 8679.78
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.1 +/- 0.0 (jitter = 0.0)	7.378
+10	images/sec: 135.1 +/- 1.1 (jitter = 2.9)	7.356
+20	images/sec: 135.4 +/- 0.6 (jitter = 2.8)	7.319
+30	images/sec: 135.5 +/- 0.5 (jitter = 2.7)	7.326
+40	images/sec: 135.1 +/- 0.5 (jitter = 2.9)	7.372
+50	images/sec: 135.2 +/- 0.4 (jitter = 2.7)	7.377
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.7)	7.389
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.7)	7.348
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.393
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.339
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.383
+----------------------------------------------------------------
+total images/sec: 8679.74
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.4 +/- 0.0 (jitter = 0.0)	7.370
+10	images/sec: 135.1 +/- 1.0 (jitter = 3.0)	7.386
+20	images/sec: 135.4 +/- 0.7 (jitter = 3.6)	7.367
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.1)	7.340
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.1)	7.361
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.1)	7.352
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.1)	7.349
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.8)	7.317
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.9)	7.324
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.371
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.362
+----------------------------------------------------------------
+total images/sec: 8679.69
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.4 +/- 0.0 (jitter = 0.0)	7.361
+10	images/sec: 135.1 +/- 1.0 (jitter = 2.9)	7.358
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.5)	7.372
+30	images/sec: 135.6 +/- 0.5 (jitter = 3.0)	7.351
+40	images/sec: 135.1 +/- 0.5 (jitter = 3.2)	7.355
+50	images/sec: 135.2 +/- 0.4 (jitter = 3.0)	7.319
+60	images/sec: 135.3 +/- 0.4 (jitter = 3.0)	7.352
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.7)	7.370
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.8)	7.320
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.354
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.355
+----------------------------------------------------------------
+total images/sec: 8679.71
+----------------------------------------------------------------
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 128.7 +/- 0.0 (jitter = 0.0)	7.366
+10	images/sec: 135.1 +/- 1.0 (jitter = 1.9)	7.328
+20	images/sec: 135.4 +/- 0.6 (jitter = 3.3)	7.386
+30	images/sec: 135.6 +/- 0.5 (jitter = 2.4)	7.358
+40	images/sec: 135.1 +/- 0.5 (jitter = 2.8)	7.383
+50	images/sec: 135.3 +/- 0.4 (jitter = 2.6)	7.359
+60	images/sec: 135.3 +/- 0.4 (jitter = 2.8)	7.339
+70	images/sec: 135.4 +/- 0.3 (jitter = 2.7)	7.334
+80	images/sec: 135.6 +/- 0.3 (jitter = 2.6)	7.348
+90	images/sec: 135.6 +/- 0.3 (jitter = 2.5)	7.341
+100	images/sec: 135.6 +/- 0.3 (jitter = 2.4)	7.361
+----------------------------------------------------------------
+total images/sec: 8680.11
+----------------------------------------------------------------
