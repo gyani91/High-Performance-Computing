@@ -1,0 +1,1 @@
+tensorflow resnet101 float32 32 305.101458 2545

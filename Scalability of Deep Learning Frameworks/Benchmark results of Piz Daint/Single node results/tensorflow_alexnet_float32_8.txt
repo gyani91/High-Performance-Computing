@@ -1,0 +1,1 @@
+tensorflow alexnet float32 8 1475.563109 1553
